@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 def engine(n,list1):
     
     def listoflist(original_list,variable):
-        "converts list of int to list of lists"
+        "converts list of int to list of lists.Test"
         start=0
         list1=[]
         for i in range(int(len(original_list)/variable)):
