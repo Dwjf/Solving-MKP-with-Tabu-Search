@@ -8,7 +8,7 @@ def loader():
         Reads text file and returns a list 
         
         """
-        f=open("/Volumes/WINDATA/Thesis/dissertation1/data/mknapcb7.txt")
+        f=open("/Users/daniel/Library/Mobile Documents/com~apple~CloudDocs/Thesis/python/data/mknapcb7.txt")
         string1=(f.read())
         list1=tolist(string1)
 
